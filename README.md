@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/HughGz/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://icons8.com/icon/118497/facebook)" alt="anshu-gulati-6a605b20b" height="30" width="40" /></a>
+<a href="https://www.facebook.com/HughGz/" target="blank"><img align="center" src="https://icons8.com/icon/118497/facebook" alt="anshu-gulati-6a605b20b" height="30" width="40" /></a>
 <a href="https://instagram.com/__._anshu_.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__._anshu_.__" height="30" width="40" /></a>
 </p>
 
