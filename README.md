@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vo Minh Hieu</h1>
-<h3 align="center">I'm a software engineer. I honed my skills in problem solving, algorithm design, and data structures. In addition, I have developed several mobile applications for both Android and iOS platforms using programming languages such as Java and Flutter.I am always eager to learn new technologies and explore new ideass.</h3>
+<h3 align="center">I'm a software engineer. I honed my skills in problem solving, and data structures. In addition, I am always eager to learn new technologies and explore new ideass.</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Developer**
+- 🌱 I’m currently learning **IOT Developer**
 
 - 👯 I’m looking to collaborate on **Backend Developer**
 
