@@ -1,4 +1,4 @@
-[![MasterHead](https://i-blog.csdnimg.cn/blog_migrate/d5ed18bd1a075681a5e5fbc5e2749166.gif)](https://rishavchanda.io)
+![MasterHead](https://res.cloudinary.com/dahzoj4fy/image/upload/v1734023810/qwvmlw0qx6ihpfmkknvb.gif?loop=1)
 
 <h1 align="center">Hi 👋, I'm Vo Minh Hieu</h1>
 <h3 align="center">I'm a software engineer. I honed my skills in problem solving, and data structures. In addition, I am always eager to learn new technologies and explore new ideas.</h3>
