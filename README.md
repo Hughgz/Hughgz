@@ -4,10 +4,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Vo Minh Hieu</h1>
-<h3 align="center">I'm a software engineer. I honed my skills in problem solving, and data structures. In addition, I am always eager to learn new technologies and explore new ideas.</h3>
+<h3 align="center">I am currently studying software engineering, focusing on Java backend development. I am working on improving my problem-solving and data structure skills, and I am eager to learn new technologies and grow as a developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu-gulati&label=Profile%20views&color=0e75b6&style=flat" alt="Minh Hieu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
