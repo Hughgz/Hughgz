@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **Java Backend Developer**
 - 📫 How to reach me **minhhieu.swe@gmail.com**
 - ⚡ Fun fact **I believe in Magic**
-- 📫 **If you're not smarter than others, you have to put in more time than they do**
+- ⏳ **If you're not smarter than others, you have to put in more time than they do**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
