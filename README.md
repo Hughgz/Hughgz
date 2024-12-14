@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/_minhieu_1605/" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical skills:</h3>
 <p align="left"> 
   <!-- Backend -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
