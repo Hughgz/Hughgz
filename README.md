@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/244/430/png-transparent-microsoft-sql-server-sql-server-management-studio-database-server-microsoft-angle-text-triangle.png" alt="mssql" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/dahzoj4fy/image/upload/v1734169477/mbs82lxzzipaj24ngtv8.svg" alt="mssql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/dahzoj4fy/image/upload/v1734169550/q6rtumck55t3nej58pqc.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://junit.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/>
@@ -61,9 +61,6 @@
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -74,7 +71,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/dahzoj4fy/image/upload/v1734169600/ikydv1fofp13iyafttfi.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://mui.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/>
@@ -87,26 +84,10 @@
   <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/>
   </a>
-  
-  <!-- IDEs -->
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.eclipse.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original-wordmark.svg" alt="eclipse" width="40" height="40"/>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://res.cloudinary.com/dahzoj4fy/image/upload/v1734169719/z4cf4exgwuiaoo6am7za.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40"/>
-  </a>
-
-  <!-- Other -->
-  <a href="https://www.scrum.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Scrum_logo.svg" alt="scrum" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Jira-Software-Logo.png" alt="jira" width="40" height="40"/>
   </a>
 </p>
