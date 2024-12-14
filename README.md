@@ -50,6 +50,9 @@
   <a href="https://junit.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/>
   </a>
+   <a href="" target="_blank" rel="noreferrer">
+    <img src="https://res.cloudinary.com/dahzoj4fy/image/upload/v1734169963/d0ay2wlnraeubhruf5x5.svg" alt="junit" width="40" height="40"/>
+  </a>
 
   <!-- Frontend -->
   <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer">
