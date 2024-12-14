@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Spring_Boot_Logo_2018.svg" alt="spring-boot" width="40" height="40"/>
+    <img src="https://tvd12.com/wp-content/uploads/springboot.jpeg" alt="spring-boot" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-security" width="40" height="40"/>
