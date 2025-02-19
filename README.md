@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **IOT Developer**
+- 🌱 I’m currently learning **Oracle Certified Professional: Java SE 11 Developer**
 - 👯 I’m looking to collaborate on **Java Backend Developer**
 - 📫 How to reach me **minhhieu.swe@gmail.com**
 - ⚡ Fun fact **I believe in Magic**
