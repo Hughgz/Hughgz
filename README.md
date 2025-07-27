@@ -59,23 +59,9 @@
 ---
 
 ### 🌐 Most Used Languages
-```text
-JavaScript       ████████████████████  35.00%
-Java             ██████████████        28.00%
-Python           ████████              18.00%
-C#               █████                11.00%
-Other            ██                   8.00%
-```
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hughgz&show_icons=true&theme=radical" alt="Hughgz GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hughgz&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hughgz&theme=redical" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hughgz&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
