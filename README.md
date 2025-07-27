@@ -5,32 +5,23 @@
 <h1 align="center">Hi, I'm Vo Minh Hieu👋</h1>
 <h3 align="center">An IT student who loves backend, full-stack dev, and research.</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/hieuminh03" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:minhhieu.swe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail" />
-  </a>
-</p>
-
 ---
 
 ### 📄 About Me
-- 📚 Final-year Software Engineering student at Nguyen Tat Thanh University (GPA 3.3/4.0)
+- 📚 Final-year Software Engineering student
 - 🌐 Research Intern at FS University (India) | Full-stack Intern at MAI Technology (Vietnam)
-- ✨ Passionate about AI, backend dev, and cloud deployment
+- ✨ Passionate about AI, backend dev, and full-stack dev
 - 🚀 Developer of: Mai Talk (10k+ users), MH Cinema, Plantify (IoT & ML), SignChat (GDSC Hackathon)
 
 ---
 
 ### 👥 Connect with me
 <p>
-  <a href="https://www.facebook.com/HughGz/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>
+  <a href="https://linkedin.com/in/hieuminh03" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/_minhieu_1605/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+  <a href="mailto:minhhieu.swe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
 </p>
 
