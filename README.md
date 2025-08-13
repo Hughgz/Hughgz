@@ -11,7 +11,7 @@
 - 📚 Final-year Software Engineering student
 - 🌐 Research Intern at FS University (India) | Full-stack Intern at MAI Technology (Vietnam)
 - ✨ Passionate about AI, backend dev, and full-stack dev
-- 🚀 Developer of: Mai Talk (10k+ users), MH Cinema, Plantify (IoT & ML), SignChat (GDSC Hackathon), Lang – Anonymous & free mental support platform for empathy and peace.
+- 🚀 Developer of: Mai Talk (10k+ users), MH Cinema, Plantify (IoT & ML), SignChat (GDSC Hackathon), Lắng – Anonymous & free mental support platform for empathy and peace.
 
 ---
 
