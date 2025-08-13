@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Vo Minh Hieu👋</h1>
-<h3 align="center">An IT student who loves backend, full-stack dev, and research.</h3>
+<h3 align="center">An IT student passionate about backend and full-stack development, as well as research in machine learning, data structures, and algorithms.</h3>
 
 ---
 
