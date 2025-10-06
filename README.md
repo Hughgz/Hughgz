@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Hi, I'm Vo Minh Hieu👋</h1>
-<h3 align="center">An IT student passionate about backend and full-stack development, as well as research in machine learning, data structures, and algorithms.</h3>
+<h3 align="center">An IT student passionate about Backend, System Design, as well as research in ML/DL & DSA.</h3>
+<h3 align="center">My target is study MSc Computer Science at TUM.</h3>
 
 ---
 
