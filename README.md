@@ -4,14 +4,12 @@
 
 <h1 align="center">Hi, I'm Vo Minh Hieu👋</h1>
 <h3 align="center">An IT student passionate about Backend, System Design, as well as research in ML/DL & DSA.</h3>
-<h3 align="center">My target is study MSc Computer Science at TUM.</h3>
-
 ---
 
 ### 📄 About Me
 - 📚 Final-year Software Engineering student
-- 🌐 Research Intern at FS University (India) | Full-stack Intern at MAI Technology (Vietnam)
-- ✨ Passionate about AI, backend dev, and full-stack dev
+- 🌐 Researcher at FS University (India) | Full-stack Developer at MAI Technology (Vietnam)
+- ✨ Passionate about AI, backend dev, and Full-stack dev
 - 🚀 Developer of: Mai Talk (10k+ users), MH Cinema, Plantify (IoT & ML), SignChat (GDSC Hackathon), Lắng – Anonymous & free mental support platform for empathy and peace.
 
 ---
