@@ -8,7 +8,7 @@
 
 ### 📄 About Me
 - 📚 Final-year Software Engineering student
-- 🌐 Researcher at FS University (India) | Full-stack Developer at MAI Technology (Vietnam)
+- 🌐 Researcher at FS University (India) | Full-stack Developer at Bosch Global Software Technologies Vietnam
 - ✨ Passionate about AI, backend dev, and Full-stack dev
 - 🚀 Developer of: Mai Talk (10k+ users), MH Cinema, Plantify (IoT & ML), SignChat (GDSC Hackathon), Lắng – Anonymous & free mental support platform for empathy and peace.
 
